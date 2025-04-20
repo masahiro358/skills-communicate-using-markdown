@@ -1,7 +1,7 @@
-<h1>目次1</h1>
-<h2>目次2</h2>
-<h3>目次3</h3>
-<h4>目次4</h4>
-<h5>目次5</h5>
-<h6>目次6</h6>
-<h1> (?<!#)#{1,6}([ \t](.*))?$ </h1>
+# Introduction
+
+This is an example markdown file with headers.
+
+## Subsection
+
+More content here.
